@@ -1,0 +1,13 @@
+.py-1 {
+    padding: 0px 1px;
+}
+.display_flex.mt-5 {
+    width: 64%;
+    margin: auto;
+    background: #fff;
+    padding: 50px 94px;
+}
+
+body {
+    background: #d0cccc5c;
+}
